@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "5b4e6022953c0a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ab4cfe398f0190d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98a1431e0e516cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. PHYSICS/MECHANICS/FLUIDS/1. FLUIDS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. FLUIDS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e170ab4dd0d0e48c",
+    "type": "split",
+    "children": [
+      {
+        "id": "73f90152569c7a86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13405fc075326140",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27f243b2437dcd23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1491a2582fdfbf5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffaa6c9098516622",
+    "type": "split",
+    "children": [
+      {
+        "id": "b173eab2a807cadc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bba966a53b129ed7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SOFTWARE/SISTEMAS/TEORIA/Multitasking (Multitarea).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Multitasking (Multitarea)"
+            }
+          },
+          {
+            "id": "48019a106c79450c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SOFTWARE/SISTEMAS/TEORIA/Multitasking (Multitarea).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Multitasking (Multitarea)"
+            }
+          },
+          {
+            "id": "7e8c270520405779",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "809cd3b6d7ebc464",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SOFTWARE/SISTEMAS/TEORIA/Multitasking (Multitarea).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Multitasking (Multitarea)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "98a1431e0e516cbd",
+  "lastOpenFiles": [
+    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/4. TURBINAS.md",
+    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/2. BERNOULLI EQUATION.md",
+    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/3. REYNOLDS.md",
+    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/1. RIGID BODY.md",
+    "2. PHYSICS/MECHANICS/FLUIDS/STATICS/1. GENERAL.md",
+    "2. PHYSICS/MECHANICS/FLUIDS/1. FLUIDS.md",
+    "2. PHYSICS/MECHANICS/FLUIDS/BIBLIO.md",
+    "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/3. ESP-IDF.md",
+    "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/2. PLATFORMIO.md",
+    "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/1. WORK-FLOW (SDK).md",
+    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS",
+    "2. PHYSICS/MECHANICS/FLUIDS/STATICS",
+    "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/4. J-TAG.md",
+    "6. MECHANICAL/Tecnologys.md",
+    "3. MATH/DIGITAL CIRCUITS/Algebra Booleana.md",
+    "3. MATH/DIGITAL CIRCUITS/Sumador Completo.md",
+    "3. MATH/DIGITAL CIRCUITS/Resta Completa.md",
+    "2. PHYSICS/ELECTRONICS/ANALOG CIRCUITS/3. TRANSISTORS BJT.md",
+    "2. PHYSICS/ELECTRONICS/ANALOG CIRCUITS/2. DIODES.md",
+    "1. EMBEDDED/1. FIRMWARE/2. BARE METAL/ESPIDF/1. SOC.md",
+    "Pasted image 20250527225920.png",
+    "1. EMBEDDED/2. HARDWARE/CPU/CPU (CENTRAL PROCESSING  UNIT).md",
+    "6. MECHANICAL",
+    "2. PHYSICS/ELECTRONICS/ANALOG CIRCUITS/GENERAL.md",
+    "0. config/resources/img/2. physics/electronics/analog/transistor 1.png",
+    "0. config/resources/img/2. physics/electronics/analog/diodos 3.png",
+    "2. PHYSICS/ELECTRONICS/ANALOG CIRCUITS/Sin nombre",
+    "1. EMBEDDED/1. FIRMWARE/Sin nombre",
+    "0. config/resources/img/2. physics/electronics/analog/diodos 1.png",
+    "0. config/resources/img/2. physics/electronics/analog",
+    "0. config/resources/img/2. physics/electronics",
+    "0. config/resources/img/2. physics/electronics/analog/diodos 2.png",
+    "2. PHYSICS/ELECTRONICS/ANALOG CIRCUITS",
+    "2. PHYSICS/ELECTRONICS/LINEAL CIRCUITS",
+    "1. EMBEDDED/1. FIRMWARE/2. BARE METAL/ESPIDF.md",
+    "1. EMBEDDED/1. FIRMWARE/2. BARE METAL/ESPIDF",
+    "1. EMBEDDED/1. FIRMWARE/DEVELOPMENT ENVIROMENT/Sin título.md",
+    "0. config/resources/img/2. physics/mechanics/fluids/Cuerpo Rigido Rotacion 2.png",
+    "0. config/resources/img/2. physics/mechanics/fluids/Cuerpo Rigido Traslacion.png",
+    "0. config/resources/img/2. physics/mechanics/fluids/Cuerpo Rigido Rotacion.png",
+    "3. MATH/DIGITAL CIRCUITS/Notas a Adaptar Digitales.md",
+    "4. ARTIFICIAL INTELLIGENCE/GENERAL.md",
+    "1. EMBEDDED/3. OPERATOR SYSTEM/2. ROS/Notas a Adaptar.md",
+    "1. EMBEDDED/3. OPERATOR SYSTEM/2. ROS/5. ROS MULTIMAQUINA.md",
+    "GOJAN/01 - Course 1/Digital control/Images/001.png",
+    "GOJAN/Pasted image 20250415174947.png",
+    "Untitled.canvas",
+    "Software/Sin título.canvas"
+  ]
+}
