@@ -25,4 +25,15 @@ Puedes usar, modificar y compartir libremente, siempre que:
 - No lo uses con fines comerciales  
 - Distribuyas cualquier versión modificada bajo la misma licencia
 
-> Si deseas usarlo en windows, usa git config --global core.autocrlf true
+---
+
+## ⚙️Configuración
+
+> El .gitattributes fija los finales de linea en formato LF, para Windows usa git config --global core.autocrlf true
+
+> Mode: Dark
+
+> Theme: Blue Topaz
+
+> Editor->Spelling: English (United States), Spanish (United States)
+> 
