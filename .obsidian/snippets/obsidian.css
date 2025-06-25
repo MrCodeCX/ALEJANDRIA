@@ -1,0 +1,19 @@
+.markdown-preview-view table {
+  width: 100%;
+  table-layout: fixed;
+}
+.markdown-preview-view th,
+.markdown-preview-view td {
+  word-wrap: break-word;
+}
+/* Para que las tablas en el editor ocupen ancho completo */
+.cm-s-obsidian .cm-content table {
+  width: 100% !important;
+  table-layout: fixed !important;
+}
+
+.cm-s-obsidian .cm-content th,
+.cm-s-obsidian .cm-content td {
+  word-wrap: break-word !important;
+}
+
