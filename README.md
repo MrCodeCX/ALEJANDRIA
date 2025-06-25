@@ -13,6 +13,7 @@ Inspirada en la antigua Biblioteca de Alejandría, esta bóveda busca convertirs
 - **Propósito**: Hacer que el conocimiento sea verdaderamente universal. ALEJANDRIA nace del deseo de compartir lo aprendido con quienes, como su autor, no pudieron acceder fácilmente a una educación formal de calidad. Que cualquier persona en el mundo pueda aprender, maravillarse y crecer, sin barreras.
 
 > Este proyecto no es una colección estática, sino un ecosistema vivo de ideas en expansión.
+> Si deseas usarlo en windows, usa git config --global core.autocrlf true
 
 ---
 
