@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e9dd8920032ec70",
+        "id": "75f613450ae05999",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a7485955f545fb",
+            "id": "f222084a0ec6e24d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. SOFTWARE/GENERAL TOOLS (LINUX)/PACKAGES CODING EXTREME.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PACKAGES CODING EXTREME"
+              "title": "New tab"
             }
           }
         ]
@@ -168,10 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0a7485955f545fb",
+  "active": "f222084a0ec6e24d",
   "lastOpenFiles": [
-    "4. SOFTWARE/GENERAL TOOLS (LINUX)/PACKAGES DRIVERS AND USEFULLY.md",
+    "0. config/resources/img/software/sistemas/ros/lidar/LIDAR_VIRTUALBOX_2.png",
+    "0. config/resources/img/software/sistemas/ros/lidar/LIDAR_VIRTUALBOX_1.png",
+    "README.md",
     "4. SOFTWARE/GENERAL TOOLS (LINUX)/PACKAGES CODING EXTREME.md",
+    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/4. TURBINAS.md",
+    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/2. BERNOULLI EQUATION.md",
+    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/1. RIGID BODY.md",
+    "4. SOFTWARE/GENERAL TOOLS (LINUX)/PACKAGES DRIVERS AND USEFULLY.md",
     "4. SOFTWARE/2. ARTIFICIAL INTELLIGENCE/GENERAL.md",
     "1. EMBEDDED/2. HARDWARE/CPU/CPU (CENTRAL PROCESSING  UNIT).md",
     "4. SOFTWARE/1. C MAKE",
@@ -183,12 +185,8 @@
     "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/2. PLATFORMIO.md",
     "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/4. J-TAG.md",
     "1. EMBEDDED/1. FIRMWARE/1. DEVELOPMENT ENVIROMENT/3. ESP-IDF.md",
-    "README.md",
     "2. PHYSICS/MECHANICS/FLUIDS/1. FLUIDS.md",
-    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/4. TURBINAS.md",
-    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/2. BERNOULLI EQUATION.md",
     "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/3. REYNOLDS.md",
-    "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS/1. RIGID BODY.md",
     "2. PHYSICS/MECHANICS/FLUIDS/STATICS/1. GENERAL.md",
     "2. PHYSICS/MECHANICS/FLUIDS/BIBLIO.md",
     "2. PHYSICS/MECHANICS/FLUIDS/DYNAMICS",
@@ -210,12 +208,10 @@
     "0. config/resources/img/2. physics/electronics",
     "0. config/resources/img/2. physics/electronics/analog/diodos 2.png",
     "1. EMBEDDED/1. FIRMWARE/2. BARE METAL/ESPIDF.md",
-    "1. EMBEDDED/1. FIRMWARE/DEVELOPMENT ENVIROMENT/Sin título.md",
     "0. config/resources/img/2. physics/mechanics/fluids/Cuerpo Rigido Rotacion 2.png",
     "0. config/resources/img/2. physics/mechanics/fluids/Cuerpo Rigido Traslacion.png",
     "0. config/resources/img/2. physics/mechanics/fluids/Cuerpo Rigido Rotacion.png",
     "GOJAN/01 - Course 1/Digital control/Images/001.png",
-    "GOJAN/Pasted image 20250415174947.png",
     "Untitled.canvas",
     "Software/Sin título.canvas"
   ]
