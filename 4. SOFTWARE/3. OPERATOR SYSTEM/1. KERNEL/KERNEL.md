@@ -28,7 +28,7 @@ while(true) {
 }
 ```
 
-## COMUNICATION PROCESSES
+## COMMUNICATION PROCESSES
 Para el problema de la interactividad se definen protocolos de comunicación entre los procesos y el kernel, si el proceso desea comunicarse con otros, o si desea comunicarse con el hardware, el no hará directamente dicha comunicación, sino mas bien, se comunicara con el kernel mediante las System Calls, y el kernel se encargara del resto, seudocódigo adjunto.
 
 ```
