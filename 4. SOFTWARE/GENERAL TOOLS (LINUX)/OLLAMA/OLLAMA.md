@@ -5,6 +5,7 @@ Luego configura el usuario ollama y el grupo ollama, y crea un servicio a inicia
 
 Finalmente verifica que tenga nvidia-smi y se finaliza.
 
+---
 ### CONFIG ENVIRONMENT VARIABLES
 Para configurar sus variables de entorno correr
 

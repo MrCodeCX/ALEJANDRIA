@@ -8,4 +8,3 @@ Diseno de Fabricas
 Diseno Para Manufactura DFM (que todo el disenio indique como se va a manufacturar, segun los calibres, procesos de manufacturado corte / doblado / etc)
 
 Inventor emboss (Cubrir una superficie curva)
-probando

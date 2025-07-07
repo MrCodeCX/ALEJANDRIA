@@ -48,3 +48,8 @@ alias get_idf='. $HOME/esp/esp-idf/export.sh'
 ---
 ### STM32 CUBE IDE
 SDK oficial de stm, instalación por script sh
+
+---
+### DOCKER ENGINE
+---
+### ROS 2 JAZZY JALISCO DOCKER

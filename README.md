@@ -34,6 +34,3 @@ Puedes usar, modificar y compartir libremente, siempre que:
 > Mode: Dark
 
 > Theme: Blue Topaz
-
-> Editor->Spelling: English (United States), Spanish (United States)
-> 
