@@ -12,11 +12,10 @@ sudo apt update
 sudo apt install ros-noetic-desktop-full
 ```
 
-Para sourcear por defecto el setup.bash general
-
 ```
-echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
-	source ~/.bashrc
+ros-jazzy-demo-nodes-py
+ros-jazzy-demo-nodes-cpp
+ros-jazzy-demo-nodes-turtlesim
 ```
 
 | Meta Package              | Description                                                                              |
