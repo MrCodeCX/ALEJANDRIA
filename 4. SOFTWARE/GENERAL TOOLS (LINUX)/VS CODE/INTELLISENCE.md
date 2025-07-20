@@ -4,7 +4,7 @@ Para que el Intellisence de un lenguaje compilado funcione debe conocer el lengu
 
 ---
 ### CONFIG
-Para que el motor del Intellisence conozca sus elementos, es necesario comunicarle las rutas de estos, para C/C++ esto se logra de dos formas, mediante un archivo genérico con c_cpp_properties.json, o mediante un archivo especifico producto del motor de construcción del proyecto, compile_commands.json.
+Para que el motor del Intellisence conozca sus elementos, es necesario comunicarle las rutas de estos, para C/C++ esto se logra de dos formas, mediante un archivo genérico con c_cpp_properties.json (en .vscode), o mediante un archivo especifico producto del motor de construcción del proyecto, compile_commands.json.
 
 El c_cpp_properties.json debe seguir la siguiente estructura:
 
