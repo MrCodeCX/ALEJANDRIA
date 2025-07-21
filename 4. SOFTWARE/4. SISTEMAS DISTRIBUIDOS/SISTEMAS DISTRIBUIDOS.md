@@ -1,8 +1,4 @@
-Aprender 
-
-teoria de sistemas distribuidos
-crear imagenes docker personalizadas (es solo meterles un script en el docker file)
-configuracion de permisos de un contenedor, volumenes, puertos, interactive, tty, etc
-redes entre contenedores, conectarlos
+Virtualizacion mediante hipervisor para maquinas virtuales.
+Sistema operativo compartido, procesos aislados para contenedores.
 
 ![[Pasted image 20250717205618.png]]
