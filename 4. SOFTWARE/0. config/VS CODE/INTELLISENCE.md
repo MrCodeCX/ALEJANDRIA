@@ -40,5 +40,33 @@ c_cpp_properties.json
 
 ```
 
-El compile_commands.json debe ser generado por el sdk o motor de construcción, y cuenta con elementos equivalentes a los del c_cpp_properties.json.
 
+---
+### CONFIG COMPILE COMMANDS
+
+^4b5245
+
+El compile_commands.json debe ser generado por el sdk o motor de construcción, el archivo c_cpp_properties.json sigue siendo necesario. 
+
+```
+c_cpp_properties.json
+
+{
+    "configurations": [
+        {
+            "name": "<name>",
+            "compilerPath": "<compiler-path>",
+            "includePath": [
+                "${workspaceFolder}/**",
+            ],
+            "intelliSenseMode": "<compiler-intellisence-mode>",
+            "cStandard": "c<version>",
+            "cppStandard": "c++<version>",
+            "compileCommands": [
+	            "${workspaceFolder}/build/compile_commands.json"
+            ]
+        }
+    ],
+    "version": 4
+}
+```
